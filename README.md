@@ -4,7 +4,11 @@ This repository includes all relevant custom R scripts and associated configurat
 
 # Input Data
 
-All raw FCS files and fully annotated data frame ("backup_output.rds") is available at 10.5281/zenodo.14755936. The fully annotated data frame can be loaded onto the R script to generate the published figures in the manuscript. In Config, there are metadata, panel, and merged (annotation) files necessary to generate the heatmaps and other plots for the entire dataset (Supplementary Fig.).
+All raw FCS files and a fully annotated data frame ("backup_output.rds") are available at 10.5281/zenodo.14755936. 
+
+The fully annotated data frame can be loaded onto the R script to generate the published figures in the manuscript. In Config, there are metadata, panel, and merged (annotation) files necessary to generate the heatmaps and other plots for the entire dataset.
+
+For PCA and correlation plots, excel files containing raw data necessary to generate these plots are provided.
 
 # R Scripts
 
